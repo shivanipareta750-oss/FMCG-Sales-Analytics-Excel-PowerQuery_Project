@@ -3,7 +3,7 @@ Sales Performance, Profitability & Business Insights
 Project Overview
 I built this project to understand how raw FMCG sales data can be cleaned, analysed, and transformed into useful business insights using Microsoft Excel and Power Query.
 The project is based on Trivana Consumer Products Limited, a fictional FMCG company, with synthetic sales data covering April 2023 to March 2026.
-focus was to analyse sales trends, profitability, regional and product category performance, and actual sales against business targets. I also developed an Excel dashboard to present the findings in a clear and practical way.
+My focus was to analyse sales trends, profitability, regional and product category performance, and actual sales against business targets. I also developed an Excel dashboard to present the findings in a clear and practical way.
 Project at a Glance
 Project Detail	Information
 Industry	FMCG
@@ -15,23 +15,23 @@ Key Skills	Data Cleaning, Data Validation, PivotTables, Advanced Excel, Dashboar
 Dataset	100% Synthetic
 Business Objectives
 The project focuses on answering five key business questions:
-How have sales and profitability changed over three financial years?
-Which regions and product categories contribute the most to revenue?
-How does actual sales performance compare with planned targets?
-What is the impact of discounts on sales and profitability?
-Which business areas show opportunities for improvement?
+•	How have sales and profitability changed over three financial years?
+•	Which regions and product categories contribute the most to revenue?
+•	How does actual sales performance compare with planned targets?
+•	What is the impact of discounts on sales and profitability?
+•	Which business areas show opportunities for improvement?
 Tools & Techniques
 Microsoft Excel
-Advanced Excel formulas, including SUMIFS and SUMPRODUCT
-PivotTables and PivotCharts
-KPI calculations and financial analysis
-Dashboard development and data visualisation
+•	Advanced Excel formulas, including SUMIFS and SUMPRODUCT
+•	PivotTables and PivotCharts
+•	KPI calculations and financial analysis
+•	Dashboard development and data visualisation
 Power Query
-Data import and transformation
-Data cleaning and standardisation
-Duplicate and missing-value handling
-Data quality checks and validation
-Combining sales data with master datasets
+•	Data import and transformation
+•	Data cleaning and standardisation
+•	Duplicate and missing-value handling
+•	Data quality checks and validation
+•	Combining sales data with master datasets
 Data Cleaning & Validation
 I worked with 60,261 raw sales records and prepared a cleaned dataset of 60,033 records.
 The cleaning process involved identifying duplicate records, handling missing or inconsistent values, checking data types, and validating records against product, customer, and geography master data.
@@ -60,12 +60,12 @@ The South region exceeded its FY2025–26 sales target, while other regions show
 Comparing category sales, margins, and target achievement helps identify where the business is performing well and where further attention may be needed.
 Project Structure
 The Excel workbook includes:
-Dashboard – Overall business performance and visual reporting
-KPI_Summary – Sales, profitability, and target calculations
-Sales_Clean – Prepared sales dataset
-Target_vs_Actual – Actual sales compared with planned targets
-PivotTable Analysis – Performance breakdowns across business dimensions
-Data Quality Checks – Validation and reconciliation of results
+•	Dashboard – Overall business performance and visual reporting
+•	KPI_Summary – Sales, profitability, and target calculations
+•	Sales_Clean – Prepared sales dataset
+•	Target_vs_Actual – Actual sales compared with planned targets
+•	PivotTable Analysis – Performance breakdowns across business dimensions
+•	Data Quality Checks – Validation and reconciliation of results
 How to Explore
 Open the Excel workbook and start with the Dashboard sheet for a quick overview.
 For detailed calculations, review KPI_Summary. The PivotTable analysis sheets provide additional breakdowns, while the Power Query queries and validation sheets show how the data was prepared and checked.
