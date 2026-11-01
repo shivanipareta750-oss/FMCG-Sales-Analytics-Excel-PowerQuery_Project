@@ -113,3 +113,17 @@ For detailed calculations, review KPI_Summary. The PivotTable analysis sheets pr
 This is an independent portfolio project created to demonstrate practical Excel, Power Query, and business analytics skills.
 
 All company information and sales data used in this project are fictional and synthetic. No confidential or real customer data has been used.
+
+## Dashboard Preview
+
+### Key Performance Indicators
+![FMCG Sales KPIs](Dashboard_KPIs.png)
+
+### Sales Performance Analysis
+![FMCG Sales Performance](Dashboard_Performance.png)
+
+### Sales Trends and Target Analysis
+![FMCG Sales Charts](Dashboard_Charts_1.png)
+
+### Additional Business Insights
+![FMCG Business Insights](Dashboard_Charts_2.png)
