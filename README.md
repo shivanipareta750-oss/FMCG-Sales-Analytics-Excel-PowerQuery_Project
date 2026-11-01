@@ -1,8 +1,8 @@
-#**FMCG Sales Analytics | Excel & Power Query**
+# FMCG Sales Analytics | Excel & Power Query
 
-###**Sales Performance, Profitability & Business Insights**
+### Sales Performance, Profitability & Business Insights
 
-##**Project Overview**
+## Project Overview
 
 I built this project to understand how raw FMCG sales data can be cleaned, analysed, and transformed into useful business insights using Microsoft Excel and Power Query.
 
@@ -10,7 +10,7 @@ The project is based on **Trivana Consumer Products Limited**, a fictional FMCG 
 
 My focus was to analyse sales trends, profitability, regional and product category performance, and actual sales against business targets. I also developed an Excel dashboard to present the findings in a clear and practical way.
 
-##**Project at a Glance**
+## Project at a Glance
 
 Project Detail	Information
 Industry	FMCG
@@ -21,7 +21,7 @@ Tools	Microsoft Excel, Power Query
 Key Skills	Data Cleaning, Data Validation, PivotTables, Advanced Excel, Dashboard Reporting
 Dataset	100% Synthetic
 
-##**Business Objectives**
+## Business Objectives
 
 The project focuses on answering five key business questions:
 
@@ -31,7 +31,7 @@ The project focuses on answering five key business questions:
 •	What is the impact of discounts on sales and profitability?
 •	Which business areas show opportunities for improvement?
 
-##**Tools & Techniques**
+## Tools & Technologies
 
 **Microsoft Excel**
 •	Advanced Excel formulas, including SUMIFS and SUMPRODUCT
@@ -46,7 +46,7 @@ The project focuses on answering five key business questions:
 •	Data quality checks and validation
 •	Combining sales data with master datasets
 
-##**Data Cleaning & Validation**
+## Data Cleaning & Transformation
 
 I worked with 60,261 raw sales records and prepared a cleaned dataset of 60,033 records.
 
@@ -54,7 +54,7 @@ The cleaning process involved identifying duplicate records, handling missing or
 
 I also built data quality checks to reconcile record counts and financial metrics, helping make the analysis more reliable.
 
-##**Dashboard & Key KPIs**
+## Dashboard & KPI Analysis
 
 I developed an Excel dashboard to track overall sales performance and compare results across financial years, regions, and product categories.
 
@@ -69,7 +69,7 @@ Units Sold	17,59,980
 
 The dashboard includes annual sales comparisons, monthly sales trends, regional and category performance, profitability, and target achievement.
 
-##**Key Business Insights**
+## Key Business Insights
 
 **1. Consistent sales growth**
 
@@ -91,7 +91,7 @@ The South region exceeded its FY2025–26 sales target, while other regions show
 
 Comparing category sales, margins, and target achievement helps identify where the business is performing well and where further attention may be needed.
 
-##**Project Structure**
+## Project Structure
 
 The Excel workbook includes:
 
@@ -102,13 +102,13 @@ The Excel workbook includes:
 •	PivotTable Analysis – Performance breakdowns across business dimensions
 •	Data Quality Checks – Validation and reconciliation of results
 
-##**How to Explore**
+## How to Explore
 
 Open the Excel workbook and start with the Dashboard sheet for a quick overview.
 
 For detailed calculations, review KPI_Summary. The PivotTable analysis sheets provide additional breakdowns, while the Power Query queries and validation sheets show how the data was prepared and checked.
 
-##**Project Note**
+## Project Note
 
 This is an independent portfolio project created to demonstrate practical Excel, Power Query, and business analytics skills.
 
